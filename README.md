@@ -85,14 +85,7 @@
       height="40"
     />
   </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
+ 
    <img
      align="right"
   src="https://github-readme-streak-stats.herokuapp.com/?user=keevsz&theme=tokyonight"
@@ -130,6 +123,15 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
       width="40"
       height="40"
     />
