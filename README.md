@@ -7,10 +7,10 @@
   src="https://user-images.githubusercontent.com/94328696/203868676-0957d1d4-88cb-4080-9fb3-a4dd2d543dec.gif"
   alt="keevsz"
 />
-<p> - 🌱 Actualmente estoy aprendiendo <b>Typescript</b> </p>
-<p> - 🤝 Estoy buscando ayuda con <b>Deployment</b> </p>
-<p> - 💬 Pregúntame sobre <b> React, Nodejs</b> </p>
-<p>  - 📫 Cómo llegar a mí <b>keviv1q2@gmail.com</b> </p>
+<li>🌱 Actualmente estoy aprendiendo <b>Typescript</b> </li>
+<li>🤝 Estoy buscando ayuda con <b>Deployment</b> </li>
+<li>💬 Pregúntame sobre <b> React, Nodejs</b> </li>
+<li>📫 Cómo llegar a mí <b>keviv1q2@gmail.com</b> </li>
 
 </br>
 <h3 align="left">Conéctate conmigo:</h3>
@@ -196,4 +196,9 @@
   </a>
 </p>
 
-
+```mermaid
+graph LR
+A[Write code] --> B{Funciona?}
+B{Funciona?} -- si --> A[Escribir código]
+B{Funciona?} -- no --> C[Googlearlo]
+C[Googlearlo] --> B{Funciona?}
