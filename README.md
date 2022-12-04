@@ -7,7 +7,7 @@
   src="https://user-images.githubusercontent.com/94328696/203868676-0957d1d4-88cb-4080-9fb3-a4dd2d543dec.gif"
   alt="keevsz"
 />
-<li>🌱 Actualmente estoy aprendiendo <b>Typescript</b> </li>
+<li>🌱 Actualmente estoy aprendiendo <b>Clean Architecture</b> </li>
 <li>🤝 Estoy buscando ayuda con <b>Deployment</b> </li>
 <li>💬 Pregúntame sobre <b> React, Nodejs</b> </li>
 <li>📫 Cómo llegar a mí <b>keviv1q2@gmail.com</b> </li>
