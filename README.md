@@ -16,7 +16,7 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/keevsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="keevsz" height="30" width="40" /></a>
-<a href="https://twitter.com/kevsvq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevsvq" height="30" width="40" /></a>
+<a href="https://twitter.com/KeinVq1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevsvq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kevin-yair-vilca-quispe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-yair-vilca-quispe" height="30" width="40" /></a>
   <img
     align="right"
