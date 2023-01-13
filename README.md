@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Kevin Vilca Quispe <code>keevsz</code> :)</h1>
-<h3 align="center">Full Stack Developer...</h3>
+<h3 align="center">Full Stack Developer</h3>
 </br>
 <img
   align="right"
