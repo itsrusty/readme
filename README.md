@@ -9,7 +9,7 @@
 />
 <li>🌱 Actualmente estoy aprendiendo <b>Clean Architecture</b> </li>
 <li>🤝 Estoy buscando ayuda con <b>Nest JS</b> </li>
-<li>💬 Pregúntame sobre <b> React, Nodejs</b> </li>
+<li>💬 Pregúntame sobre <b> React, Expressjs</b> </li>
 <li>📫 Cómo llegar a mí <b>keviv1q2@gmail.com</b> </li>
 
 </br>
