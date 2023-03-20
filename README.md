@@ -195,9 +195,3 @@
   </a>
 </p>
 
-```mermaid
-graph LR
-A[Write code] --> B{Funciona?}
-B{Funciona?} -- si --> A[Escribir código]
-B{Funciona?} -- no --> C[Googlearlo]
-C[Googlearlo] --> B{Funciona?}
